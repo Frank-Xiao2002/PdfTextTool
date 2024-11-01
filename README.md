@@ -1,4 +1,4 @@
-# PdfText2NormalText
+# PdfTextTool
 
 * Creator: Frank_Xiao
 * Time: 2023/12
